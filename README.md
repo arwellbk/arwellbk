@@ -38,9 +38,5 @@ I'm 14 years old, I live in Adana/Turkey. I am aiming to finish university as a 
 
 <div align="center">
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=arwellbk&theme=dark&hide_border=true">
-</div>
-<br>
-<div align="center">
-	
 <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arwellbk&theme=dark&hide_border=true&layout=compact">
 </div>
