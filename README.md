@@ -3,7 +3,7 @@
 <p align="center" style="text-align: center; font-size: 20px;">
 I'm 14 years old, I live in Adana/Turkey. I am aiming to finish university as a software engineer.<br>I'm into developing websites, desktop apps, etc. </p>
 <div align="center">
-    <a href="https://discord.com/users/888778343749672981" title="Discord Status"><img src="https://lanyard-profile-readme.vercel.app/api/888778343749672981"></a>
+    <a href="https://discord.com/users/888778343749672981" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/888778343749672981"></a>
 </div>
 
 <div>
