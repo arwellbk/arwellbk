@@ -9,9 +9,8 @@ I'm 15 years old, I live in Adana/Turkey. I am aiming to finish university as a 
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/888778343749672981" target="_blank"><img src="https://shields.io/badge/Discord-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/919628220511432744" target="_blank"><img src="https://shields.io/badge/Discord-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/arwellbk" target="_blank"><img src="https://shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github"></a>
-    <a href="https://arwell.me" target="_blank"><img src="https://shields.io/badge/Personal Website-111111.svg?&style=for-the-badge"></a>
 </div>
 
 <div>
