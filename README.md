@@ -21,17 +21,11 @@ I'm 15 years old, I live in Adana/Turkey. I am aiming to finish university as a 
     <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=for-the-badge&logo=javascript&logoColor=white"/>
-    <img alt="React" align="center" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-    <img alt="TypeScript" align="center" src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img alt="C#" align="center" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img alt="Python" align="center" src="https://img.shields.io/badge/Python-0078d7.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<br><br>
+   <img alt="Python" align="center" src="https://img.shields.io/badge/Python-0078d7.svg?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="MongoDB" align="center" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img alt="Bootstrap" align="center" src="https://img.shields.io/badge/-Bootstrap-CC6699?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img alt=".NET Core" align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-    <img alt="VS Code" align="center" src="https://img.shields.io/badge/VS Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img alt="GitHub" align="center" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<br><br><br>
+    <br>
+and more.
+<br><br>
 </div>
 
 <div align="center">
