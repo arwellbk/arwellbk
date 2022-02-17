@@ -23,6 +23,7 @@ I'm 15 years old, I live in Adana/Turkey. I am aiming to finish university as a 
     <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=for-the-badge&logo=javascript&logoColor=white"/>
    <img alt="Python" align="center" src="https://img.shields.io/badge/Python-0078d7.svg?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="MongoDB" align="center" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+	<img alt="SvelteJS" align="center" src="https://img.shields.io/badge/Svelte-E34F26?style=for-the-badge&logo=svelte&logoColor=white"/>
     <br>
 and more.
 <br><br>
