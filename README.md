@@ -1,6 +1,5 @@
 <h1 align="center">Hello there, I'm Burak.<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-<p align="center" style="text-align: center; font-size: 20px;">
-I'm 15 years old, I live in Adana/Turkey. I am aiming to finish university as a software engineer.<br>I'm into developing back-end, I'm still learning to front-end (i can't). </p>
+<p align="center" style="text-align: center; font-size: 20px;">14 y/o junior developer from Adana/Turkey. Still learning arduino and vueJS. I like ReactJS, Python, TypeScript, Bash, etc.</p>
 
 
 <div>
@@ -20,10 +19,9 @@ I'm 15 years old, I live in Adana/Turkey. I am aiming to finish university as a 
 <div align="center">
     <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img alt="JavaScript (React, Vue)" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=for-the-badge&logo=javascript&logoColor=white"/>
    <img alt="Python" align="center" src="https://img.shields.io/badge/Python-0078d7.svg?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="MongoDB" align="center" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-	<img alt="SvelteJS" align="center" src="https://img.shields.io/badge/Svelte-E34F26?style=for-the-badge&logo=svelte&logoColor=white"/>
     <br>
 and more.
 <br><br>
