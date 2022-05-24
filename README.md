@@ -12,10 +12,10 @@
     <a href="https://github.com/arwellbk" target="_blank"><img src="https://shields.io/badge/GitHub-111111.svg?&style=for-the-badge&logo=github"></a>
 </div>
 
-<div>
+
 <h1 align="center">
   Using technologies
-  </h1></div>
+  </h1>
 <div align="center">
     <img alt="HTML" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -24,8 +24,8 @@
     <img alt="MongoDB" align="center" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <br>
 	and more.
-	</div>
-
+</div>
+<div>
 	<h1 align="center">Languages I am currently learning</h1>
 	<div align="center">
 		<img alt="Go" align="center" src="https://img.shields.io/badge/Go-0384fc.svg?style=for-the-badge&logo=go&logoColor=white"/>
