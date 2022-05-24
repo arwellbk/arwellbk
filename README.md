@@ -23,8 +23,7 @@
     <img alt="Python" align="center" src="https://img.shields.io/badge/Python-0078d7.svg?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="MongoDB" align="center" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <br>
-    
-    <br>
+	
 and more.
 	<h1 align="center">Languages I am currently learning</h1>
 	<div align="center">
