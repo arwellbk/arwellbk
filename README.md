@@ -23,17 +23,16 @@
     <img alt="Python" align="center" src="https://img.shields.io/badge/Python-0078d7.svg?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="MongoDB" align="center" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <br>
-	
+	</div>
 and more.
 	<h1 align="center">Languages I am currently learning</h1>
 	<div align="center">
 		<img alt="Go" align="center" src="https://img.shields.io/badge/Go-0384fc.svg?style=for-the-badge&logo=go&logoColor=white"/>
 		<img alt="Rust" align="center" src="https://img.shields.io/badge/Rust-ff3f0f.svg?style=for-the-badge&logo=rust&logoColor=white"/>
 		<img alt="C++" align="center" src="https://img.shields.io/badge/C++-004cff.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-		
 	</div>
 <br><br>
-</div>
+
 
 <div align="center">
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=arwellbk&theme=dark&hide_border=true">
